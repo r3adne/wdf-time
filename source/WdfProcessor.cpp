@@ -1,5 +1,5 @@
-#include "PluginProcessor.h"
-#include "PluginEditor.h"
+#include "WdfProcessor.h"
+#include "WdfEditor.h"
 
 //==============================================================================
 WdfProcessor::WdfProcessor()

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "PluginProcessor.h"
+#include "WdfProcessor.h"
 
 //==============================================================================
 class WdfEditor final : public juce::AudioProcessorEditor
